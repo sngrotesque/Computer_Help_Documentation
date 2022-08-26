@@ -1,12 +1,5 @@
 ### 计算机基础与进阶
 
-#### 汇编
-> [汇编指令](https://baike.baidu.com/item/汇编指令/9979890)<br>
-
-#### 正则表达式
-> [Python正则表达式指南](https://www.cnblogs.com/huxi/archive/2010/07/04/1771073.html)<br>
-> [re — Regular expression operations](https://docs.python.org/3/library/re.html)
-
 #### 计算机基础
 > [ASCII](https://baike.baidu.com/item/ASCII)<br>
 > [API (应用程序编程接口)](https://baike.baidu.com/item/%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E7%BC%96%E7%A8%8B%E6%8E%A5%E5%8F%A3/3350958)<br>
@@ -78,6 +71,13 @@
 > [Netstat (网络信息统计)](https://baike.baidu.com/item/Netstat)<br>
 > [Metasploit (安全漏洞检测工具)](https://baike.baidu.com/item/Metasploit)<br>
 > [Vim (Unix及类Unix系统文本编辑器)](https://baike.baidu.com/item/VIM/60410)<br>
+
+#### 汇编
+> [汇编指令](https://baike.baidu.com/item/汇编指令/9979890)<br>
+
+#### 正则表达式
+> [Python正则表达式指南](https://www.cnblogs.com/huxi/archive/2010/07/04/1771073.html)<br>
+> [re — Regular expression operations](https://docs.python.org/3/library/re.html)
 
 #### 算法/数据结构相关
 > [算法](https://baike.baidu.com/item/%E7%AE%97%E6%B3%95/209025)<br>
