@@ -1,0 +1,156 @@
+### 计算机基础与进阶
+
+#### 汇编
+> [汇编指令](https://baike.baidu.com/item/汇编指令/9979890)<br>
+
+#### 正则表达式
+> [Python正则表达式指南](https://www.cnblogs.com/huxi/archive/2010/07/04/1771073.html)<br>
+> [re — Regular expression operations](https://docs.python.org/3/library/re.html)
+
+#### 计算机基础
+> [ASCII](https://baike.baidu.com/item/ASCII)<br>
+> [API (应用程序编程接口)](https://baike.baidu.com/item/%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E7%BC%96%E7%A8%8B%E6%8E%A5%E5%8F%A3/3350958)<br>
+> [\\ (转义字符)](https://baike.baidu.com/item/%E8%BD%AC%E4%B9%89%E5%AD%97%E7%AC%A6/86397)<br>
+> [identifier (标识符)](https://baike.baidu.com/item/%E6%A0%87%E8%AF%86%E7%AC%A6/7105638)<br>
+> [OS (操作系统)](https://baike.baidu.com/item/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/192)<br>
+> [Windows操作系统](https://baike.baidu.com/item/Windows%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)<br>
+> [Linux操作系统](https://baike.baidu.com/item/linux)<br>
+> [堆栈](https://baike.baidu.com/item/%E5%A0%86%E6%A0%88)<br>
+> [C/S架构](https://baike.baidu.com/item/%E6%9C%8D%E5%8A%A1%E5%99%A8-%E5%AE%A2%E6%88%B7%E6%9C%BA)<br>
+> [B/S架构](https://baike.baidu.com/item/BS%E6%9E%B6%E6%9E%84)<br>
+> [Concurrent (并发)](https://baike.baidu.com/item/%E5%B9%B6%E5%8F%91/11024806)<br>
+> [multithreading(多线程)](https://baike.baidu.com/item/%E5%A4%9A%E7%BA%BF%E7%A8%8B/1190404)<br>
+> [Thread (线程)](https://baike.baidu.com/item/%E7%BA%BF%E7%A8%8B/103101)<br>
+> [面向过程](https://baike.baidu.com/item/%E9%9D%A2%E5%90%91%E8%BF%87%E7%A8%8B)<br>
+> [面向对象](https://baike.baidu.com/item/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1)<br>
+> [原码](https://baike.baidu.com/item/%E5%8E%9F%E7%A0%81/1097586)<br>
+> [反码](https://baike.baidu.com/item/%E5%8F%8D%E7%A0%81/769985)<br>
+> [补码](https://baike.baidu.com/item/%E8%A1%A5%E7%A0%81)<br>
+> [保留字(关键字)](https://baike.baidu.com/item/%E4%BF%9D%E7%95%99%E5%AD%97)<br>
+> [terminal (终端)](https://baike.baidu.com/item/%E7%BB%88%E7%AB%AF/15634871)<br>
+> [开源 (开放源代码)](https://baike.baidu.com/item/%E5%BC%80%E6%94%BE%E6%BA%90%E4%BB%A3%E7%A0%81/114160)<br>
+> [闭源](https://baike.baidu.com/item/%E9%97%AD%E6%BA%90)<br>
+
+#### 计算机网络
+> [URI (统一资源标识符)](https://baike.baidu.com/item/URI/2901761)<br>
+> [URL (统一资源定位系统)](https://baike.baidu.com/item/%E7%BB%9F%E4%B8%80%E8%B5%84%E6%BA%90%E5%AE%9A%E4%BD%8D%E7%B3%BB%E7%BB%9F)<br>
+> [IP (国际互联协议)](https://baike.baidu.com/item/IP/224599)<br>
+> [SYN (同步序列编号)](https://baike.baidu.com/item/SYN/8880122)<br>
+> [TCP/IP (传输控制协议/互联协议)](https://baike.baidu.com/item/TCP%2FIP%E5%8D%8F%E8%AE%AE)<br>
+> [TCP/UDP协议](https://baike.baidu.com/item/TCP%2FUDP%E5%8D%8F%E8%AE%AE)<br>
+> [TCP (传输控制协议](https://baike.baidu.com/item/TCP/33012)<br>
+> [UDP (用户数据报协议)](https://baike.baidu.com/item/UDP/571511)<br>
+> [HTTP (超文本传输协议)](https://baike.baidu.com/item/http)<br>
+> [HTTPS (超文本传输安全协议)](https://baike.baidu.com/item/https)<br>
+> [SSL (安全套接字协议)](https://baike.baidu.com/item/ssl)<br>
+> [TLS (安全传输层协议)](https://baike.baidu.com/item/TLS)<br>
+> [SSH (安全外壳协议)](https://baike.baidu.com/item/ssh)<br>
+> [SFTP (SSH文件传输协议)](https://baike.baidu.com/item/SSH%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE)<br>
+> [FTP (文件传输协议)](https://baike.baidu.com/item/ftp/13839)<br>
+> [SCTP (流控制传输协议)](https://baike.baidu.com/item/%E6%B5%81%E6%8E%A7%E5%88%B6%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE/10195073)<br>
+> [DHCP (动态主机配置协议)](https://baike.baidu.com/item/DHCP)<br>
+> [ARP (地址解析协议)](https://baike.baidu.com/item/ARP/609343)<br>
+> [Proxy (代理)](https://baike.baidu.com/item/Proxy)<br>
+> [路由 (网络工程术语)](https://baike.baidu.com/item/%E8%B7%AF%E7%94%B1/363497)<br>
+> [CIDR (无类别域间路由)](https://baike.baidu.com/item/%E6%97%A0%E7%B1%BB%E5%88%AB%E5%9F%9F%E9%97%B4%E8%B7%AF%E7%94%B1)<br>
+> [域名查询](https://baike.baidu.com/item/%E5%9F%9F%E5%90%8D%E6%9F%A5%E8%AF%A2)<br>
+> [NAK (信号)](https://baike.baidu.com/item/NAK/10119429)<br>
+> [ACK (确认字符)](https://baike.baidu.com/item/ACK/3692629)<br>
+> [SYN (同步序列编号)](https://baike.baidu.com/item/SYN)<br>
+> [URG (紧急位)](https://baike.baidu.com/item/URG)<br>
+
+#### Web相关
+> [Nginx (Web服务器)](https://baike.baidu.com/item/nginx/3817705)<br>
+> [Apache (Web服务器)](https://baike.baidu.com/item/apache/6265)<br>
+> [Mysql (关系型数据库管理系统)](https://baike.baidu.com/item/mySQL/471251)<br>
+> [Microsoft IIS (互联网信息服务)](https://zh.wikipedia.org/wiki/%E7%B6%B2%E9%9A%9B%E7%B6%B2%E8%B7%AF%E8%B3%87%E8%A8%8A%E6%9C%8D%E5%8B%99)<br>
+
+#### 网络安全相关
+> [Firewall(防火墙)](https://baike.baidu.com/item/%E9%98%B2%E7%81%AB%E5%A2%99/52767)<br>
+> [Buffer overflow (缓冲区溢出)](https://baike.baidu.com/item/%E7%BC%93%E5%86%B2%E5%8C%BA%E6%BA%A2%E5%87%BA)<br>
+
+#### 工具相关
+> [Tracert (跟踪路由)](https://baike.baidu.com/item/%E8%B7%9F%E8%B8%AA%E8%B7%AF%E7%94%B1)<br>
+> [traceroute (路由跟踪)](https://baike.baidu.com/item/traceroute)<br>
+> [Telnet (远程终端协议)](https://baike.baidu.com/item/Telnet)<br>
+> [Netcat (网络扫描)](https://baike.baidu.com/item/Netcat)<br>
+> [Nmap (网络扫描)](https://baike.baidu.com/item/nmap)<br>
+> [Netstat (网络信息统计)](https://baike.baidu.com/item/Netstat)<br>
+> [Metasploit (安全漏洞检测工具)](https://baike.baidu.com/item/Metasploit)<br>
+> [Vim (Unix及类Unix系统文本编辑器)](https://baike.baidu.com/item/VIM/60410)<br>
+
+#### 算法/数据结构相关
+> [算法](https://baike.baidu.com/item/%E7%AE%97%E6%B3%95/209025)<br>
+> [数据结构](https://baike.baidu.com/item/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/1450)<br>
+> [傅里叶变换](https://baike.baidu.com/item/%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2)<br>
+> [二叉树](https://baike.baidu.com/item/%E4%BA%8C%E5%8F%89%E6%A0%91)<br>
+> [红黑树](https://baike.baidu.com/item/%E7%BA%A2%E9%BB%91%E6%A0%91)<br>
+> [链表](https://baike.baidu.com/item/%E9%93%BE%E8%A1%A8)<br>
+
+### 数学基础与进阶
+> #### [初一数学](https://www.bilibili.com/video/BV114411Q7Y4)
+> #### [初二数学](https://www.bilibili.com/video/BV1DJ411w7Th)
+> #### [初三数学](https://www.bilibili.com/video/BV17E41167hm)
+> #### [初中数学总复习](https://www.bilibili.com/video/BV1qb411A7Zz)
+> #### [三角函数](https://www.bilibili.com/video/BV1F4411t7if)
+> #### [平面向量](https://www.bilibili.com/video/BV1k4411x7Lx)
+> #### [数列](https://www.bilibili.com/video/BV1t4411v74t)
+> #### [函数](https://www.bilibili.com/video/BV1z441147P4)
+> #### [高中数学总复习](https://www.bilibili.com/video/BV1bt411C7E8)
+> #### [微积分-上](https://www.bilibili.com/video/BV1UW411k7Jv)
+> #### [微积分-下](https://www.bilibili.com/video/BV1Ss41177dr)
+> #### [高等数学](https://www.bilibili.com/video/BV1864y1T7Ks)
+> #### [复变函数和积分变换](https://www.bilibili.com/video/BV13K4y1h7wC)
+> #### [线性代数](https://www.bilibili.com/video/BV1aW411Q7x1)
+
+### 一些开发者社区与学习网站(排名不分上下)
+
+#### 社区 (部分社区是国外网站)
+> [Github - 云端软件开发协作平台](https://github.com/)<br>
+> [Gitee - 云端软件开发协作平台](https://gitee.com/)<br>
+> [博客园](https://www.cnblogs.com/)<br>
+> [CSDN - 专业开发者社区](https://www.csdn.net/)<br>
+> [SegmentFault 思否](https://segmentfault.com/)<br>
+> [V2EX](https://www.v2ex.com/)<br>
+> [OSCHINA - 中文开源技术交流社区](https://www.oschina.net/)<br>
+> [51CTO - 技术成就梦想](https://www.51cto.com/)<br>
+> [ChinaUNIX](http://www.chinaunix.net/)<br>
+> [ITeye](https://www.iteye.com/)<br>
+> [掘金](https://juejin.cn/)<br>
+> [开发者头条](https://toutiao.io/)<br>
+> [Git Chat](https://gitbook.cn/)<br>
+> [codeKK - Android开源项目集合](https://p.codekk.com/)<br>
+> [Free Code Camp - 中文社区](https://learn.freecodecamp.one/)<br>
+> [Info Q](https://www.infoq.cn/)<br>
+> [Unitimes](https://www.unitimes.pro/)<br>
+> [Stack Overflow](https://stackoverflow.com/)<br>
+> [Reddit (不能完全说是开发者社区，类似推特)](https://www.reddit.com/)<br>
+> [SitePoint](https://www.sitepoint.com/)<br>
+> [Google开发者](https://developers.google.com/)<br>
+> [Code Project](https://www.codeproject.com/)<br>
+> [Hacker News (可能会暂时打不开)](https://news.ycombinator.com/)<br>
+> [Dzone](https://dzone.com/)<br>
+> [Bytes Developer Community](https://bytes.com/)<br>
+> [DaniWeb Community](https://www.daniweb.com/)<br>
+> [Dream.In.Code](https://www.dreamincode.net/forums/)<br>
+> [Lobsters](https://lobste.rs/)<br>
+> [力扣 (LeetCode)](https://leetcode-cn.com/)<br>
+> [程序员客栈](https://jishuin.proginn.com/?from=top_nav)<br>
+> [百度AI开放平台](https://ai.baidu.com/)<br>
+> [图灵社区](https://www.ituring.com.cn/)<br>
+> [HackerOne | Hacker-Powered Security](https://www.hackerone.com/)<br>
+
+#### 学习
+> [W3school](https://www.w3school.com.cn/)<br>
+> [LintCode](https://www.lintcode.com/)<br>
+> [牛客](https://www.nowcoder.com/)<br>
+> [SoloLearn](https://www.sololearn.com/home)<br>
+> [菜鸟教程](https://www.runoob.com/)<br>
+> [C语言中文网](http://c.biancheng.net/)<br>
+> [C语言网](https://www.dotcpp.com/)<br>
+> [在线手册中心](https://docs.pythontab.com/)<br>
+> [ProcessOn - 免费在线作图](https://www.processon.com/)<br>
+
+#### 工具类
+> [在线工具](https://tool.lu/)<br>
+> [在线工具 - OSCHINA](https://tool.oschina.net/)<br>
