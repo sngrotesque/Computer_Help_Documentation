@@ -4,6 +4,16 @@
 ### 由SN-Grotesque撰写，非常感谢你的观看！
 ### 如果你们任何人想参与撰写，请联系我！
 
+### 以下为各个文档的说明
+
+- ALiYunDrive.md          # 阿里云盘分享链接
+- All_Help_Document.md    # 计算机基础理论知识
+- Git_Help_Document.md    # Git分支管理软件文档
+- HTTP_Status_Code.md     # HTTP状态码文档
+- Markdown.md             # Markdown的帮助文档
+- Reading_e-books.md      # 阅读电子书的软件
+- Search_Engines.md       # 搜索引擎的高级使用方法
+
 > 为什么要学计算机？<br>
 > 学习它之后你可以做几乎所有你想做的事情。<br>
 > 比如游戏开发，机器人，人工智能，图片识别，黑客白客，网络爬虫等等。<br>
