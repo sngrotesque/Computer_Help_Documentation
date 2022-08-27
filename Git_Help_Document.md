@@ -11,16 +11,18 @@
 ### 一些常用的git指令
 
 ```bash
-git add 文件名          # 添加文件
-git commit -m 名称      # 提交至暂存区
-git push origin 分支名  # 推送至远程分支
+git init                   # 初始化本地仓库
+git remote add origin 链接 # 添加远程仓库
+git add 文件名             # 添加文件
+git commit -m 名称         # 提交至暂存区
+git push origin 分支名     # 将暂存区推送至远程分支
 
-git checkout 分支名     # 切换至分支
-git checkout -b 分支名  # 新建并切换至分支
-git branch              # 查看当前选择分支
-git diff                # 查看本地改动
-git branch -m 旧名 新名 # 对分支进行改名
-git status              # 查看当前分支状态
+git checkout 分支名        # 切换至分支
+git checkout -b 分支名     # 新建并切换至分支
+git branch                 # 查看当前选择分支
+git diff                   # 查看本地改动
+git branch -m 旧名 新名    # 对分支进行改名
+git status                 # 查看当前分支状态
 
-git rm -cached 内容名   # 从提交暂存区删除指定内容
+git rm -cached 内容名      # 从提交暂存区删除指定内容
 ```
