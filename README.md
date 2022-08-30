@@ -13,6 +13,7 @@
 - Markdown.md             # Markdown的帮助文档
 - Reading_e-books.md      # 阅读电子书的软件
 - Search_Engines.md       # 搜索引擎的高级使用方法
+- Search_for_pictures.md  # 以图搜图/番网站列表
 
 > 为什么要学计算机？<br>
 > 学习它之后你可以做几乎所有你想做的事情。<br>
