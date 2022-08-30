@@ -17,6 +17,9 @@ git add 文件名             # 添加文件
 git commit -m 名称         # 提交至暂存区
 git push origin 分支名     # 将暂存区推送至远程分支
 
+git clone 链接             # 克隆对应仓库的默认分支并在本地命名为master
+git clone -b 分支名 链接   # 克隆对应仓库指定分支
+
 git checkout 分支名        # 切换至分支
 git checkout -b 分支名     # 新建并切换至分支
 git branch                 # 查看当前选择分支
