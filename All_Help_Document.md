@@ -14,6 +14,7 @@
 > [Concurrent (并发)](https://baike.baidu.com/item/%E5%B9%B6%E5%8F%91/11024806)<br>
 > [multithreading(多线程)](https://baike.baidu.com/item/%E5%A4%9A%E7%BA%BF%E7%A8%8B/1190404)<br>
 > [Thread (线程)](https://baike.baidu.com/item/%E7%BA%BF%E7%A8%8B/103101)<br>
+> [Process (进程)](https://baike.baidu.com/item/%E8%BF%9B%E7%A8%8B/382503)<br>
 > [面向过程](https://baike.baidu.com/item/%E9%9D%A2%E5%90%91%E8%BF%87%E7%A8%8B)<br>
 > [面向对象](https://baike.baidu.com/item/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1)<br>
 > [原码](https://baike.baidu.com/item/%E5%8E%9F%E7%A0%81/1097586)<br>
@@ -51,6 +52,19 @@
 > [ACK (确认字符)](https://baike.baidu.com/item/ACK/3692629)<br>
 > [SYN (同步序列编号)](https://baike.baidu.com/item/SYN)<br>
 > [URG (紧急位)](https://baike.baidu.com/item/URG)<br>
+
+#### 计算机密码学
+[恺撒密码](https://baike.baidu.com/item/%E6%81%BA%E6%92%92%E5%AF%86%E7%A0%81/4905284)<br>
+[波利比奥斯棋盘](https://baike.baidu.com/item/%E6%B3%A2%E5%88%A9%E6%AF%94%E5%A5%A5%E6%96%AF%E6%A3%8B%E7%9B%98/19277130)<br>
+[栅栏密码](https://baike.baidu.com/item/%E6%A0%85%E6%A0%8F%E5%AF%86%E7%A0%81/228209)<br>
+[维吉尼亚密码](https://baike.baidu.com/item/%E7%BB%B4%E5%90%89%E5%B0%BC%E4%BA%9A%E5%AF%86%E7%A0%81/4905472)<br>
+[恩尼格玛密码机](https://baike.baidu.com/item/%E6%81%A9%E5%B0%BC%E6%A0%BC%E7%8E%9B%E5%AF%86%E7%A0%81%E6%9C%BA/5691350)<br>
+[摩斯密码（摩尔斯电码）](https://baike.baidu.com/item/%E6%91%A9%E6%96%AF%E5%AF%86%E7%A0%81/397016)<br>
+[对称加密](https://baike.baidu.com/item/%E5%AF%B9%E7%A7%B0%E5%8A%A0%E5%AF%86/2152944)<br>
+[非对称加密](https://baike.baidu.com/item/%E9%9D%9E%E5%AF%B9%E7%A7%B0%E5%8A%A0%E5%AF%86/9874417)<br>
+[现代密码学的一些原则（入门密码学必读）](https://baijiahao.baidu.com/s?id=1735541621224512135&wfr=spider&for=pc)<br>
+[AES加密算法](https://blog.csdn.net/xuanli4845/article/details/115895619)<br>
+[RSA加密算法（公钥+私钥加密）](https://wenku.baidu.com/view/a2bf5be44328915f804d2b160b4e767f5acf80fd.html)<br>
 
 #### Web相关
 > [Nginx (Web服务器)](https://baike.baidu.com/item/nginx/3817705)<br>
