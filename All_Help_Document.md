@@ -102,26 +102,26 @@
 > [链表](https://baike.baidu.com/item/%E9%93%BE%E8%A1%A8)<br>
 
 ### 数学基础与进阶
-> #### [初一数学](https://www.bilibili.com/video/BV114411Q7Y4)
-> #### [初二数学](https://www.bilibili.com/video/BV1DJ411w7Th)
-> #### [初三数学](https://www.bilibili.com/video/BV17E41167hm)
-> #### [初中数学总复习](https://www.bilibili.com/video/BV1qb411A7Zz)
-> #### [三角函数](https://www.bilibili.com/video/BV1F4411t7if)
-> #### [平面向量](https://www.bilibili.com/video/BV1k4411x7Lx)
-> #### [数列](https://www.bilibili.com/video/BV1t4411v74t)
-> #### [函数](https://www.bilibili.com/video/BV1z441147P4)
-> #### [高中数学总复习](https://www.bilibili.com/video/BV1bt411C7E8)
-> #### [微积分-上](https://www.bilibili.com/video/BV1UW411k7Jv)
-> #### [微积分-下](https://www.bilibili.com/video/BV1Ss41177dr)
-> #### [高等数学](https://www.bilibili.com/video/BV1864y1T7Ks)
-> #### [复变函数和积分变换](https://www.bilibili.com/video/BV13K4y1h7wC)
-> #### [线性代数](https://www.bilibili.com/video/BV1aW411Q7x1)
+> [初一数学](https://www.bilibili.com/video/BV114411Q7Y4)<br>
+> [初二数学](https://www.bilibili.com/video/BV1DJ411w7Th)<br>
+> [初三数学](https://www.bilibili.com/video/BV17E41167hm)<br>
+> [初中数学总复习](https://www.bilibili.com/video/BV1qb411A7Zz)<br>
+> [三角函数](https://www.bilibili.com/video/BV1F4411t7if)<br>
+> [平面向量](https://www.bilibili.com/video/BV1k4411x7Lx)<br>
+> [数列](https://www.bilibili.com/video/BV1t4411v74t)<br>
+> [函数](https://www.bilibili.com/video/BV1z441147P4)<br>
+> [高中数学总复习](https://www.bilibili.com/video/BV1bt411C7E8)<br>
+> [微积分-上](https://www.bilibili.com/video/BV1UW411k7Jv)<br>
+> [微积分-下](https://www.bilibili.com/video/BV1Ss41177dr)<br>
+> [高等数学](https://www.bilibili.com/video/BV1864y1T7Ks)<br>
+> [复变函数和积分变换](https://www.bilibili.com/video/BV13K4y1h7wC)<br>
+> [线性代数](https://www.bilibili.com/video/BV1aW411Q7x1)<br>
 
 ### 一些开发者社区与学习网站(排名不分上下)
 
 #### 社区 (部分社区是国外网站)
-> [Github - 云端软件开发协作平台](https://github.com/)<br>
-> [Gitee - 云端软件开发协作平台](https://gitee.com/)<br>
+> [Github](https://github.com/)<br>
+> [Gitee](https://gitee.com/)<br>
 > [博客园](https://www.cnblogs.com/)<br>
 > [CSDN - 专业开发者社区](https://www.csdn.net/)<br>
 > [SegmentFault 思否](https://segmentfault.com/)<br>
@@ -155,6 +155,7 @@
 > [HackerOne | Hacker-Powered Security](https://www.hackerone.com/)<br>
 
 #### 学习
+> [哔哩哔哩](https://www.bilibili.com)<br>
 > [W3school](https://www.w3school.com.cn/)<br>
 > [LintCode](https://www.lintcode.com/)<br>
 > [牛客](https://www.nowcoder.com/)<br>
