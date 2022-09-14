@@ -10,6 +10,7 @@
 - All_Help_Document.md    # 计算机基础理论知识
 - Git_Help_Document.md    # Git分支管理软件文档
 - HTTP_Status_Code.md     # HTTP状态码文档
+- KeyBoard_Hex.md         # 键盘十六进制值
 - Markdown.md             # Markdown的帮助文档
 - Reading_e-books.md      # 阅读电子书的软件
 - Search_Engines.md       # 搜索引擎的高级使用方法
