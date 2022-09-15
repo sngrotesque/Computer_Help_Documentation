@@ -1,6 +1,6 @@
 ### 计算机基础与进阶
 
-#### 计算机基础
+#### 计算机基础(名词篇)
 > [ASCII](https://baike.baidu.com/item/ASCII)<br>
 > [API (应用程序编程接口)](https://baike.baidu.com/item/%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E7%BC%96%E7%A8%8B%E6%8E%A5%E5%8F%A3/3350958)<br>
 > [\\ (转义字符)](https://baike.baidu.com/item/%E8%BD%AC%E4%B9%89%E5%AD%97%E7%AC%A6/86397)<br>
@@ -25,7 +25,7 @@
 > [开源 (开放源代码)](https://baike.baidu.com/item/%E5%BC%80%E6%94%BE%E6%BA%90%E4%BB%A3%E7%A0%81/114160)<br>
 > [闭源](https://baike.baidu.com/item/%E9%97%AD%E6%BA%90)<br>
 
-#### 计算机网络
+#### 计算机网络(名词篇)
 > [URI (统一资源标识符)](https://baike.baidu.com/item/URI/2901761)<br>
 > [URL (统一资源定位系统)](https://baike.baidu.com/item/%E7%BB%9F%E4%B8%80%E8%B5%84%E6%BA%90%E5%AE%9A%E4%BD%8D%E7%B3%BB%E7%BB%9F)<br>
 > [IP (国际互联协议)](https://baike.baidu.com/item/IP/224599)<br>
@@ -53,7 +53,7 @@
 > [SYN (同步序列编号)](https://baike.baidu.com/item/SYN)<br>
 > [URG (紧急位)](https://baike.baidu.com/item/URG)<br>
 
-#### 计算机密码学
+#### 计算机密码学(名词篇)
 [恺撒密码](https://baike.baidu.com/item/%E6%81%BA%E6%92%92%E5%AF%86%E7%A0%81/4905284)<br>
 [波利比奥斯棋盘](https://baike.baidu.com/item/%E6%B3%A2%E5%88%A9%E6%AF%94%E5%A5%A5%E6%96%AF%E6%A3%8B%E7%9B%98/19277130)<br>
 [栅栏密码](https://baike.baidu.com/item/%E6%A0%85%E6%A0%8F%E5%AF%86%E7%A0%81/228209)<br>
@@ -66,13 +66,13 @@
 [AES加密算法](https://blog.csdn.net/xuanli4845/article/details/115895619)<br>
 [RSA加密算法（公钥+私钥加密）](https://wenku.baidu.com/view/a2bf5be44328915f804d2b160b4e767f5acf80fd.html)<br>
 
-#### Web相关
+#### Web相关(名词篇)
 > [Nginx (Web服务器)](https://baike.baidu.com/item/nginx/3817705)<br>
 > [Apache (Web服务器)](https://baike.baidu.com/item/apache/6265)<br>
 > [Mysql (关系型数据库管理系统)](https://baike.baidu.com/item/mySQL/471251)<br>
 > [Microsoft IIS (互联网信息服务)](https://zh.wikipedia.org/wiki/%E7%B6%B2%E9%9A%9B%E7%B6%B2%E8%B7%AF%E8%B3%87%E8%A8%8A%E6%9C%8D%E5%8B%99)<br>
 
-#### 网络安全相关
+#### 网络安全相关(名词篇)
 > [Firewall(防火墙)](https://baike.baidu.com/item/%E9%98%B2%E7%81%AB%E5%A2%99/52767)<br>
 > [Buffer overflow (缓冲区溢出)](https://baike.baidu.com/item/%E7%BC%93%E5%86%B2%E5%8C%BA%E6%BA%A2%E5%87%BA)<br>
 
