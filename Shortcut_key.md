@@ -44,7 +44,7 @@ Win             打开开始菜单
 Print Screen    全屏截图(部分键盘为PrtSc)
 Scroll Lock     滚动锁定(部分键盘为ScrLK)
 Pause Break     中断暂停(部分键盘为Pause)
-backspace       退格键(在键盘上通常表示为向左箭头)
+backspace       退格键(在键盘上通常表示为向左的长箭头)
 Insert          切换覆盖模式(部分键盘为INS)
 Home            定位至行头
 Page UP         向上翻页(部分键盘为PgUP)
