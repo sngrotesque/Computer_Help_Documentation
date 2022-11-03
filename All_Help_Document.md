@@ -120,6 +120,7 @@
 ### 一些开发者社区与学习网站(排名不分上下)
 
 #### 社区 (部分社区是国外网站)
+
 > [Github](https://github.com/)<br>
 > [Gitee](https://gitee.com/)<br>
 > [博客园](https://www.cnblogs.com/)<br>
@@ -153,6 +154,8 @@
 > [百度AI开放平台](https://ai.baidu.com/)<br>
 > [图灵社区](https://www.ituring.com.cn/)<br>
 > [HackerOne | Hacker-Powered Security](https://www.hackerone.com/)<br>
+> [HackerFactor](https://www.hackerfactor.com/)<br>
+> [BlockHat](https://www.blackhat.com/)<br>
 
 #### 学习
 > [哔哩哔哩](https://www.bilibili.com)<br>
