@@ -48,17 +48,17 @@ site: 域名
 ### 目录文件型搜索
 ```text
 inurl:内容
-```
+
 如你想搜索哔哩哔哩的某个UP主的UID进入主页你可以使用以下语句
-```text
-inurl:space.bilibili.com/UP主UID
+具体实现方法为
+    inurl:space.bilibili.com/UP主UID
 ```
 
 ### 文件型搜索 (此方法推荐与site:混合使用)
->```java
-filetype:文件格式
-```
-比如你想搜索哔哩哔哩内的pdf文件可以使用以下语句
 ```text
-site:bilibili.com filetype:pdf
+filetype:文件格式
+
+比如你想搜索哔哩哔哩内的pdf文件可以使用以下语句
+具体实现方法为
+    site:bilibili.com filetype:pdf
 ```
